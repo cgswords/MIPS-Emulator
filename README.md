@@ -2,12 +2,9 @@
 A Java emulator written for a class a long time ago.
 
 ## Execution Instructions
-`cd` to `bin`, and run the command:
+Built it and run  run the command:
 
     java GUIMain
-
-Note: the command `java GUIMain.class` will fail miserably
-Note: You must be in the `bin` folder for it to execute properly
 
 A GUI will launch that displays current instruction memory, all 32 registers, and control buttons.
 
